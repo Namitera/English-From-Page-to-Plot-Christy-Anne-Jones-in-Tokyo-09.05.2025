@@ -1,0 +1,109 @@
+Scenes:
+Thumbnail
+Australia_Airports
+Way_To_Japan
+Japan_Overview
+Airport_Discussion
+Train_Route
+Train_Line
+Konbini
+Tobutojo
+Welcome_To_Nishidai
+Find_Appartment
+Christy_And_Book
+Sign_Investigation
+School_Front
+School_Garden
+Meme_Picture
+Room
+Floor_Plan
+Appartment
+Rent_Compare
+Website
+Ending
+
+
+
+Australia_Airports:
+Our journey starts in Adelaide, southern Australia, from where we take the plane to Melbourne to get our visas from the Japanese embassy. Let's 
+fly back to Adelaide to say goodbye to our loved ones and take the long flight to the other hemisphere.
+
+Int1:
+July 5th, 2017, Christy Anne Jones who is at the time 21 is moving to Tokyo with her boyfriend Tyler. Since she was little she learned Japanese 
+and her dream was always to move to Tokyo someday.
+
+Way_To_Japan:
+Let's take a long flight (11hours) right to Japan.
+
+Japan_Overview:
+We want to land in Tokyo somewhere but where is it? Can you see it? Here is a short overview. Japan can be divided into four main islands. 
+Hokkaido, wich is the northern most prefecture with up to 150 snow days. Honshu, the main island containing most of what you know about Japan. 
+Shikoku, a smaller island connected by the Seto-Ohashi-brige. And Kyushu, which is known for its tonkotsu ramen. Tōkyō is right here in Honshu.
+
+Airport_Discussion:
+Here is the thing. Tōkyō has two airports, the first one is Haneda airport right in central Tokyo and the other one is Narita airport which is 
+technically part of Chiba. So her first hotel is in Ikebukuro right here. Let's take a look at the distances. So when I read the text I was 
+wondering why she would land in Narita instead of Haneda. Actually there are a few reasons. Narita handles more international flights and it 
+is more cost effective because of its history and its location. Budged wise it could make sense for Christy to arrive at Narita.
+
+Train_Route:
+So let's find a way to get from Narita to Ikebukuro. Using the route planer of Google maps I found this route wich takes you to your destination 
+in about one and a half hours with a price of about 2700¥ (16.59€). It uses the Yamanote line wich goes around Tokyo, connecting many important 
+stations. You tap your IC Card on the gate and head outside. 
+
+Train_Line:
+We tap our IC Card on the gate and take the Yamanote line.
+
+Konbini:
+First Christy goes to a konbini, a convenience store, sounds fance but as you can see they are around literally every corner. Technically you 
+could live only using konbini. 
+
+Tobutojo:
+After a night in Ikebukuro we take the tobu tōjō main line north to Itabashi, Nishidai. The text mentions one tire of the suitcase burning right 
+off because of the heat wich I first didn't believe, but that's actually true as I found out, she told that on her YouTube channel in a video 
+from 2017 about moving to Tokyo.
+
+Welcome_To_Nishidai:
+This is Nishidai, a part of Itabashi, northern Tokyo. Christy told in her videos this apartment here is only temporary for 3 months. Later she 
+actually moved to a different bigger apartment in Tokyo. But where exactly is her apartment and how do you even find information about her?
+
+Find_Appartment
+First I looked at the sources at the end of our English book. There she is. Now you can enter this information into Google and find her 
+website and social media.
+
+Christy_And_Book
+This is Christy Anne Jones, a writer, illustrator and video maker. She published her book, a travel guide and memoir, A year in Tokyo in 2022 
+which can be bought as a physical or digital copy. 
+
+Sign_Investigation:
+Another thing catching my eye immediately when reading the text is the picture under the heading Our First Apartment. Let's break the image 
+down to see what that actually is. She posted that image on Instagram with the comment I have no idea what that sign says but it is adorable. 
+Let's find out for her. The sign reads oishii yasai juku. oishii means delicious, yasai vegetable, juku school. So it's a delicious vegetable 
+school. 
+
+School_Front/ School_Garden
+When we enter this into Google we actually find the restaurant, and it is actually also in Nishidai. It has vegetable gardens like speculated 
+in the post. The Vegetable School aims to cultivate a healthy and sustainable future through organic vegetables.
+
+Meme_Picture:
+When you look at the picture in the book of the cicada the first thing that comes to my mind is this: So in reality it's a bit more disgusting 
+than it is portrayed here.
+
+Room:
+So if I use all the information and do a Google search I directly find a match. There is an apartment in this region matching for example the 
+discovered picture and circumstances she describes.
+
+Floor_Plan:
+This is the floor plan which also quite matches with the drawing in the text. It has the same features but slightly different proportions, 
+Christy isn't an architect after all.
+
+Appartment:
+So this is the apartment from the front, quite nice isn't it?
+
+Rent_Compare:
+There is this very famous Japanese website called suumo where you can rent and buy houses and apartments all over Japan. You can seat with 
+any filters you image and is therefore extremely convenient. Comparing the prices you can see that the rent is actually average for this region 
+as well as the size, train connection and equipment. Really great choice Christy!
+
+Website:
+If you now feel interested here is Christy's website where you can find her social media and books to lern further about this story and topic.
